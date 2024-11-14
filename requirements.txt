@@ -1,4 +1,4 @@
-Flask==2.1.2
+Flask>=2.2
 Flask-WTF==1.0.1        # For form handling # For SQL database handling
 Flask-SQLAlchemy==3.0.3
 SQLAlchemy==2.0.0
