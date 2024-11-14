@@ -1,5 +1,6 @@
 from flask import Flask
 from config import Config
+from app import routes, models
 from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()
